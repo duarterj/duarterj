@@ -13,10 +13,6 @@
 <a href="https://www.linkedin.com/in/duarterj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-   <br>
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duarterj&theme=github)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duarterj&theme=github)
-
 
  
