@@ -15,8 +15,8 @@
   
    <br>
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgajuanne&theme=github)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olgajuanne&theme=github)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duarterj&theme=github)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duarterj&theme=github)
 
 
  
