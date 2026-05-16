@@ -1,37 +1,35 @@
-<h1 align="center">Hello, I'm Diogo Duarte</h1>
-<h3 align="center">A back end developer :technologist: </h3>
-<h2 align="center">Passionate and curious about new technologies </h2>
+#### Hi 👋, I'm Diogo Duarte
 
-- :desktop_computer: I love creating content, projects and exploring tools that allow me to do many things, I hope I can contribute
+Backend developer driven by curiosity, continuous learning, and a strong interest in technology.
 
-<div>
-<a href="https://github.com/duarterj">
-  <img width="47%" height="187em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duarterj&show_icons=true&theme=blue-green"/>
-  
-  <img width="47%" height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duarterj&layout=compact&langs_count=7&theme=blue-green"/>
-  
-</div>
-  
-<div> 
-<a href="mailto:diogoduartecontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+Mathematical and Earth Sciences undergraduate at **UFRJ** 🎓 since 2025. I started my programming journey in 2023 <br> 
+through the <a href="https://www.oracle.com/br/education/oracle-next-education/"><u>Oracle Next Education</u></a> program and have been continuously improving my skills ever since.
+
+Currently working as a **Backend Developer** at <a href="https://ejcm.com.br/"><u>EJCM</u></a>.
+
+---
+
+#### 📨 Contact
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=diogoduartecontact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/duarterj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a>
-</div>
 
-  
-<h3 align="left">Languages and Tools:</h3>
- 
+---
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="46" height="46"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="33" height="33"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg" alt="javascript" width="45" height="41"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="39" height="39"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
+#### 🛠️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+---
+
+#### 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duarterj&show_icons=true&theme=blue-green"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duarterj&layout=compact&langs_count=7&theme=blue-green"/>
 </p>
-  
-
-
-
-
